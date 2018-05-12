@@ -1,0 +1,31 @@
+_repo: Das-blaue-Fenster--Novellen_17130
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Salus, Hugo
+    birthdate: 1866
+    deathdate: 1929
+    gutenberg_agent_id: '7154'
+    url: http://www.gutenberg.org/2009/agents/7154
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2005-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17130'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Prague (Czech Republic) -- Fiction'
+- !lcsh 'Germany -- Fiction'
+- !lcsh 'Italy -- Fiction'
+- !lcc 'PT'
+tableOfContents: "Pietà\r\nDer Rächer\r\nDas Meerweibchen\r\nDer Spiegel"
+title: 'Das blaue Fenster: Novellen'
+url: http://www.gutenberg.org/ebooks/17130
